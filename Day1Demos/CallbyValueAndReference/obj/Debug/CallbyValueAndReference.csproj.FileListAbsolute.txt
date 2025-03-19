@@ -1,0 +1,10 @@
+C:\Wipro-Training\Day1Demos\CallbyValueAndReference\bin\Debug\CallbyValueAndReference.exe.config
+C:\Wipro-Training\Day1Demos\CallbyValueAndReference\bin\Debug\CallbyValueAndReference.exe
+C:\Wipro-Training\Day1Demos\CallbyValueAndReference\bin\Debug\CallbyValueAndReference.pdb
+C:\Wipro-Training\Day1Demos\CallbyValueAndReference\obj\Debug\CallbyValueAndReference.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day1Demos\CallbyValueAndReference\obj\Debug\CallbyValueAndReference.Form1.resources
+C:\Wipro-Training\Day1Demos\CallbyValueAndReference\obj\Debug\CallbyValueAndReference.Properties.Resources.resources
+C:\Wipro-Training\Day1Demos\CallbyValueAndReference\obj\Debug\CallbyValueAndReference.csproj.GenerateResource.cache
+C:\Wipro-Training\Day1Demos\CallbyValueAndReference\obj\Debug\CallbyValueAndReference.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day1Demos\CallbyValueAndReference\obj\Debug\CallbyValueAndReference.exe
+C:\Wipro-Training\Day1Demos\CallbyValueAndReference\obj\Debug\CallbyValueAndReference.pdb

@@ -1,0 +1,14 @@
+C:\Wipro-Training\Day8\ReflectionDemo\IndexerDemo\bin\Debug\net8.0\IndexerDemo.exe
+C:\Wipro-Training\Day8\ReflectionDemo\IndexerDemo\bin\Debug\net8.0\IndexerDemo.deps.json
+C:\Wipro-Training\Day8\ReflectionDemo\IndexerDemo\bin\Debug\net8.0\IndexerDemo.runtimeconfig.json
+C:\Wipro-Training\Day8\ReflectionDemo\IndexerDemo\bin\Debug\net8.0\IndexerDemo.dll
+C:\Wipro-Training\Day8\ReflectionDemo\IndexerDemo\bin\Debug\net8.0\IndexerDemo.pdb
+C:\Wipro-Training\Day8\ReflectionDemo\IndexerDemo\obj\Debug\net8.0\IndexerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro-Training\Day8\ReflectionDemo\IndexerDemo\obj\Debug\net8.0\IndexerDemo.AssemblyInfoInputs.cache
+C:\Wipro-Training\Day8\ReflectionDemo\IndexerDemo\obj\Debug\net8.0\IndexerDemo.AssemblyInfo.cs
+C:\Wipro-Training\Day8\ReflectionDemo\IndexerDemo\obj\Debug\net8.0\IndexerDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day8\ReflectionDemo\IndexerDemo\obj\Debug\net8.0\IndexerDemo.dll
+C:\Wipro-Training\Day8\ReflectionDemo\IndexerDemo\obj\Debug\net8.0\refint\IndexerDemo.dll
+C:\Wipro-Training\Day8\ReflectionDemo\IndexerDemo\obj\Debug\net8.0\IndexerDemo.pdb
+C:\Wipro-Training\Day8\ReflectionDemo\IndexerDemo\obj\Debug\net8.0\IndexerDemo.genruntimeconfig.cache
+C:\Wipro-Training\Day8\ReflectionDemo\IndexerDemo\obj\Debug\net8.0\ref\IndexerDemo.dll

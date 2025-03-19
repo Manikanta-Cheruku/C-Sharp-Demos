@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro-Training\\Day5\\Day5Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD95F2B-CF9C-4836-8CE7-D71BB98E36CC}|NonGenericHashTable\\NonGenericHashTable.csproj|c:\\wipro-training\\day5\\day5projects\\nongenerichashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD95F2B-CF9C-4836-8CE7-D71BB98E36CC}|NonGenericHashTable\\NonGenericHashTable.csproj|solutionrelative:nongenerichashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1813C6-33E0-4F6B-9F5F-2AE143671540}|SortedArrayListDemo\\SortedArrayListDemo.csproj|c:\\wipro-training\\day5\\day5projects\\sortedarraylistdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1813C6-33E0-4F6B-9F5F-2AE143671540}|SortedArrayListDemo\\SortedArrayListDemo.csproj|solutionrelative:sortedarraylistdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F9C1AB-3B30-4D3D-8498-5298D1AAB8C1}|NonGenericArrayList\\NonGenericArrayList.csproj|c:\\wipro-training\\day5\\day5projects\\nongenericarraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F9C1AB-3B30-4D3D-8498-5298D1AAB8C1}|NonGenericArrayList\\NonGenericArrayList.csproj|solutionrelative:nongenericarraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FFD824-A155-49A0-8309-A67393576F9D}|FilehandlingConsoleDemo\\FilehandlingConsoleDemo.csproj|c:\\wipro-training\\day5\\day5projects\\filehandlingconsoledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FFD824-A155-49A0-8309-A67393576F9D}|FilehandlingConsoleDemo\\FilehandlingConsoleDemo.csproj|solutionrelative:filehandlingconsoledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FFD824-A155-49A0-8309-A67393576F9D}|FilehandlingConsoleDemo\\FilehandlingConsoleDemo.csproj|c:\\wipro-training\\day5\\day5projects\\filehandlingconsoledemo\\wipro.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D2FFD824-A155-49A0-8309-A67393576F9D}|FilehandlingConsoleDemo\\FilehandlingConsoleDemo.csproj|solutionrelative:filehandlingconsoledemo\\wipro.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DCBB0-D56C-4E6F-9358-BF18BDDD6A28}|FilehandlingWindows\\FilehandlingWindows.csproj|c:\\wipro-training\\day5\\day5projects\\filehandlingwindows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0DCBB0-D56C-4E6F-9358-BF18BDDD6A28}|FilehandlingWindows\\FilehandlingWindows.csproj|solutionrelative:filehandlingwindows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DCBB0-D56C-4E6F-9358-BF18BDDD6A28}|FilehandlingWindows\\FilehandlingWindows.csproj|C:\\Wipro-Training\\Day5\\Day5Projects\\filehandlingwindows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE0DCBB0-D56C-4E6F-9358-BF18BDDD6A28}|FilehandlingWindows\\FilehandlingWindows.csproj|solutionrelative:filehandlingwindows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DCBB0-D56C-4E6F-9358-BF18BDDD6A28}|FilehandlingWindows\\FilehandlingWindows.csproj|C:\\Wipro-Training\\Day5\\Day5Projects\\filehandlingwindows\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0DCBB0-D56C-4E6F-9358-BF18BDDD6A28}|FilehandlingWindows\\FilehandlingWindows.csproj|solutionrelative:filehandlingwindows\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C44D94-3244-41C7-80D6-7EE55CC95096}|ExceptionDemo\\ExceptionDemo.csproj|C:\\Wipro-Training\\Day5\\Day5Projects\\exceptiondemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C44D94-3244-41C7-80D6-7EE55CC95096}|ExceptionDemo\\ExceptionDemo.csproj|solutionrelative:exceptiondemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A935C255-4375-4C46-ADD0-7127E6F00068}|ExceptionConsoleDemo\\ExceptionConsoleDemo.csproj|C:\\Wipro-Training\\Day5\\Day5Projects\\exceptionconsoledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A935C255-4375-4C46-ADD0-7127E6F00068}|ExceptionConsoleDemo\\ExceptionConsoleDemo.csproj|solutionrelative:exceptionconsoledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C44D94-3244-41C7-80D6-7EE55CC95096}|ExceptionDemo\\ExceptionDemo.csproj|C:\\Wipro-Training\\Day5\\Day5Projects\\exceptiondemo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C44D94-3244-41C7-80D6-7EE55CC95096}|ExceptionDemo\\ExceptionDemo.csproj|solutionrelative:exceptiondemo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C44D94-3244-41C7-80D6-7EE55CC95096}|ExceptionDemo\\ExceptionDemo.csproj|C:\\Wipro-Training\\Day5\\Day5Projects\\exceptiondemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38C44D94-3244-41C7-80D6-7EE55CC95096}|ExceptionDemo\\ExceptionDemo.csproj|solutionrelative:exceptiondemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0ECBEA-0B45-40D1-8ADE-AE3E4DBEC916}|EnumerationsDemo\\EnumerationsDemo.csproj|C:\\Wipro-Training\\Day5\\Day5Projects\\enumerationsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0ECBEA-0B45-40D1-8ADE-AE3E4DBEC916}|EnumerationsDemo\\EnumerationsDemo.csproj|solutionrelative:enumerationsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE35DCB-459E-4203-B11B-3B003645CC6E}|COnstructorDemo\\COnstructorDemo.csproj|C:\\Wipro-Training\\Day5\\Day5Projects\\constructordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE35DCB-459E-4203-B11B-3B003645CC6E}|COnstructorDemo\\COnstructorDemo.csproj|solutionrelative:constructordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E487F7F4-BC19-455F-8238-52148526D4C3}|ExtensionMethods\\ExtensionMethods.csproj|C:\\Wipro-Training\\Day5\\Day5Projects\\extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E487F7F4-BC19-455F-8238-52148526D4C3}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day5\\Day5Projects\\SortedArrayListDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SortedArrayListDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day5\\Day5Projects\\SortedArrayListDemo\\Program.cs",
+              "RelativeToolTip": "SortedArrayListDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:17:31.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day5\\Day5Projects\\NonGenericHashTable\\Program.cs",
+              "RelativeDocumentMoniker": "NonGenericHashTable\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day5\\Day5Projects\\NonGenericHashTable\\Program.cs",
+              "RelativeToolTip": "NonGenericHashTable\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA/wBgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:48:38.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day5\\Day5Projects\\NonGenericArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "NonGenericArrayList\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day5\\Day5Projects\\NonGenericArrayList\\Program.cs",
+              "RelativeToolTip": "NonGenericArrayList\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:18:26.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day5\\Day5Projects\\FilehandlingConsoleDemo\\Program.cs",
+              "RelativeDocumentMoniker": "FilehandlingConsoleDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day5\\Day5Projects\\FilehandlingConsoleDemo\\Program.cs",
+              "RelativeToolTip": "FilehandlingConsoleDemo\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowIwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:30:57.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wipro.txt",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day5\\Day5Projects\\FilehandlingConsoleDemo\\Wipro.txt",
+              "RelativeDocumentMoniker": "FilehandlingConsoleDemo\\Wipro.txt",
+              "ToolTip": "C:\\Wipro-Training\\Day5\\Day5Projects\\FilehandlingConsoleDemo\\Wipro.txt",
+              "RelativeToolTip": "FilehandlingConsoleDemo\\Wipro.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-20T08:36:31.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day5\\Day5Projects\\FilehandlingWindows\\Form1.cs",
+              "RelativeDocumentMoniker": "FilehandlingWindows\\Form1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day5\\Day5Projects\\FilehandlingWindows\\Form1.cs",
+              "RelativeToolTip": "FilehandlingWindows\\Form1.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAuwIIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T06:19:29.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day5\\Day5Projects\\FilehandlingWindows\\Form1.cs",
+              "RelativeDocumentMoniker": "FilehandlingWindows\\Form1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day5\\Day5Projects\\FilehandlingWindows\\Form1.cs [Design]",
+              "RelativeToolTip": "FilehandlingWindows\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T06:16:51.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day5\\Day5Projects\\FilehandlingWindows\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FilehandlingWindows\\Form1.Designer.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day5\\Day5Projects\\FilehandlingWindows\\Form1.Designer.cs",
+              "RelativeToolTip": "FilehandlingWindows\\Form1.Designer.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAgwKEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T06:19:42.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day5\\Day5Projects\\ExceptionDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "ExceptionDemo\\Form1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day5\\Day5Projects\\ExceptionDemo\\Form1.cs",
+              "RelativeToolTip": "ExceptionDemo\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:47:43.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day5\\Day5Projects\\ExceptionConsoleDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionConsoleDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day5\\Day5Projects\\ExceptionConsoleDemo\\Program.cs",
+              "RelativeToolTip": "ExceptionConsoleDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T05:36:29.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day5\\Day5Projects\\ExceptionDemo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ExceptionDemo\\Form1.Designer.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day5\\Day5Projects\\ExceptionDemo\\Form1.Designer.cs",
+              "RelativeToolTip": "ExceptionDemo\\Form1.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwHUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T05:03:49.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day5\\Day5Projects\\ExceptionDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "ExceptionDemo\\Form1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day5\\Day5Projects\\ExceptionDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "ExceptionDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:46:33.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day5\\Day5Projects\\EnumerationsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EnumerationsDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day5\\Day5Projects\\EnumerationsDemo\\Program.cs",
+              "RelativeToolTip": "EnumerationsDemo\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:23:00.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day5\\Day5Projects\\ExtensionMethods\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day5\\Day5Projects\\ExtensionMethods\\Program.cs",
+              "RelativeToolTip": "ExtensionMethods\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:02:44.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day5\\Day5Projects\\COnstructorDemo\\Program.cs",
+              "RelativeDocumentMoniker": "COnstructorDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day5\\Day5Projects\\COnstructorDemo\\Program.cs",
+              "RelativeToolTip": "COnstructorDemo\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T03:29:59.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

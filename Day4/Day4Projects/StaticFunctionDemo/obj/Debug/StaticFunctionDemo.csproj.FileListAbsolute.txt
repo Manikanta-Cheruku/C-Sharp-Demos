@@ -1,0 +1,7 @@
+C:\Wipro-Training\Day4\Day4Projects\StaticFunctionDemo\bin\Debug\StaticFunctionDemo.exe.config
+C:\Wipro-Training\Day4\Day4Projects\StaticFunctionDemo\bin\Debug\StaticFunctionDemo.exe
+C:\Wipro-Training\Day4\Day4Projects\StaticFunctionDemo\bin\Debug\StaticFunctionDemo.pdb
+C:\Wipro-Training\Day4\Day4Projects\StaticFunctionDemo\obj\Debug\StaticFunctionDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day4\Day4Projects\StaticFunctionDemo\obj\Debug\StaticFunctionDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day4\Day4Projects\StaticFunctionDemo\obj\Debug\StaticFunctionDemo.exe
+C:\Wipro-Training\Day4\Day4Projects\StaticFunctionDemo\obj\Debug\StaticFunctionDemo.pdb

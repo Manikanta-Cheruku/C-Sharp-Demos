@@ -1,0 +1,5 @@
+C:\Wipro-Training\Day4\Day4Projects\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day4\Day4Projects\InheritanceDemo\obj\Debug\InheritanceDemo.Form1.resources
+C:\Wipro-Training\Day4\Day4Projects\InheritanceDemo\obj\Debug\InheritanceDemo.Properties.Resources.resources
+C:\Wipro-Training\Day4\Day4Projects\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.GenerateResource.cache
+C:\Wipro-Training\Day4\Day4Projects\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache

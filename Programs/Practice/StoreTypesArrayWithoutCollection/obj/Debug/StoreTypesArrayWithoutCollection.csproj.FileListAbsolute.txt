@@ -1,0 +1,7 @@
+C:\Wipro-Training\Programs\Practice\StoreTypesArrayWithoutCollection\bin\Debug\StoreTypesArrayWithoutCollection.exe.config
+C:\Wipro-Training\Programs\Practice\StoreTypesArrayWithoutCollection\bin\Debug\StoreTypesArrayWithoutCollection.exe
+C:\Wipro-Training\Programs\Practice\StoreTypesArrayWithoutCollection\bin\Debug\StoreTypesArrayWithoutCollection.pdb
+C:\Wipro-Training\Programs\Practice\StoreTypesArrayWithoutCollection\obj\Debug\StoreTypesArrayWithoutCollection.csproj.AssemblyReference.cache
+C:\Wipro-Training\Programs\Practice\StoreTypesArrayWithoutCollection\obj\Debug\StoreTypesArrayWithoutCollection.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Programs\Practice\StoreTypesArrayWithoutCollection\obj\Debug\StoreTypesArrayWithoutCollection.exe
+C:\Wipro-Training\Programs\Practice\StoreTypesArrayWithoutCollection\obj\Debug\StoreTypesArrayWithoutCollection.pdb

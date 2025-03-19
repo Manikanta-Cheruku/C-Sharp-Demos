@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro-Training\\Day4\\Day4Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CB861B-2991-4F4F-9830-40D5EF655502}|VirtualFunctionsPractice\\VirtualFunctionsPractice.csproj|c:\\wipro-training\\day4\\day4projects\\virtualfunctionspractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CB861B-2991-4F4F-9830-40D5EF655502}|VirtualFunctionsPractice\\VirtualFunctionsPractice.csproj|solutionrelative:virtualfunctionspractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354A580E-9DF1-4DDD-931A-BF9574E5EDAC}|InheritancePractice\\InheritancePractice.csproj|c:\\wipro-training\\day4\\day4projects\\inheritancepractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354A580E-9DF1-4DDD-931A-BF9574E5EDAC}|InheritancePractice\\InheritancePractice.csproj|solutionrelative:inheritancepractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B455AA4F-1AD3-4FB3-943F-FB57B4DBCD40}|InterfacePractice\\InterfacePractice.csproj|c:\\wipro-training\\day4\\day4projects\\interfacepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B455AA4F-1AD3-4FB3-943F-FB57B4DBCD40}|InterfacePractice\\InterfacePractice.csproj|solutionrelative:interfacepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354A580E-9DF1-4DDD-931A-BF9574E5EDAC}|InheritancePractice\\InheritancePractice.csproj|C:\\Wipro-Training\\Day4\\Day4Projects\\inheritancepractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{354A580E-9DF1-4DDD-931A-BF9574E5EDAC}|InheritancePractice\\InheritancePractice.csproj|solutionrelative:inheritancepractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C03810-2489-4F6F-A950-111613950B15}|VirtualFunctions\\VirtualFunctions.csproj|C:\\Wipro-Training\\Day4\\Day4Projects\\virtualfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C03810-2489-4F6F-A950-111613950B15}|VirtualFunctions\\VirtualFunctions.csproj|solutionrelative:virtualfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1247B3-84A5-4EFF-85D2-2A97DB172353}|FunctionOverLoading\\FunctionOverLoading.csproj|C:\\Wipro-Training\\Day4\\Day4Projects\\functionoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1247B3-84A5-4EFF-85D2-2A97DB172353}|FunctionOverLoading\\FunctionOverLoading.csproj|solutionrelative:functionoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB5E182-7F67-4C52-A8A7-9FFA4C3F6D67}|AbstractClassDemo\\AbstractClassDemo.csproj|C:\\Wipro-Training\\Day4\\Day4Projects\\abstractclassdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB5E182-7F67-4C52-A8A7-9FFA4C3F6D67}|AbstractClassDemo\\AbstractClassDemo.csproj|solutionrelative:abstractclassdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB5E182-7F67-4C52-A8A7-9FFA4C3F6D67}|AbstractClassDemo\\AbstractClassDemo.csproj|C:\\Wipro-Training\\Day4\\Day4Projects\\abstractclassdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AB5E182-7F67-4C52-A8A7-9FFA4C3F6D67}|AbstractClassDemo\\AbstractClassDemo.csproj|solutionrelative:abstractclassdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7C9CF1-77D5-4375-95D9-C2B9C110E1C2}|InheritanceDemo\\InheritanceDemo.csproj|C:\\Wipro-Training\\Day4\\Day4Projects\\inheritancedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7C9CF1-77D5-4375-95D9-C2B9C110E1C2}|InheritanceDemo\\InheritanceDemo.csproj|solutionrelative:inheritancedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7C9CF1-77D5-4375-95D9-C2B9C110E1C2}|InheritanceDemo\\InheritanceDemo.csproj|C:\\Wipro-Training\\Day4\\Day4Projects\\inheritancedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7C9CF1-77D5-4375-95D9-C2B9C110E1C2}|InheritanceDemo\\InheritanceDemo.csproj|solutionrelative:inheritancedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D532A966-2A9E-4B54-BB80-827E4F836ACA}|StaticFunctionDemo\\StaticFunctionDemo.csproj|C:\\Wipro-Training\\Day4\\Day4Projects\\staticfunctiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D532A966-2A9E-4B54-BB80-827E4F836ACA}|StaticFunctionDemo\\StaticFunctionDemo.csproj|solutionrelative:staticfunctiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC58D576-A4AD-4390-8C4D-C270E5C5D015}|StaticVariableDemo\\StaticVariableDemo.csproj|C:\\Wipro-Training\\Day4\\Day4Projects\\staticvariabledemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC58D576-A4AD-4390-8C4D-C270E5C5D015}|StaticVariableDemo\\StaticVariableDemo.csproj|solutionrelative:staticvariabledemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC58D576-A4AD-4390-8C4D-C270E5C5D015}|StaticVariableDemo\\StaticVariableDemo.csproj|C:\\Wipro-Training\\Day4\\Day4Projects\\staticvariabledemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC58D576-A4AD-4390-8C4D-C270E5C5D015}|StaticVariableDemo\\StaticVariableDemo.csproj|solutionrelative:staticvariabledemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2652DD-03F5-4DA7-9EE6-AF72EA375CDE}|AccessSpecifiersDemo\\AccessSpecifiersDemo.csproj|C:\\Wipro-Training\\Day4\\Day4Projects\\accessspecifiersdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2652DD-03F5-4DA7-9EE6-AF72EA375CDE}|AccessSpecifiersDemo\\AccessSpecifiersDemo.csproj|solutionrelative:accessspecifiersdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A03010-B2F4-4C4F-A5CA-F4ED4142E82C}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Wipro-Training\\Day4\\Day4Projects\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A03010-B2F4-4C4F-A5CA-F4ED4142E82C}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day4\\Day4Projects\\VirtualFunctionsPractice\\Program.cs",
+              "RelativeDocumentMoniker": "VirtualFunctionsPractice\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day4\\Day4Projects\\VirtualFunctionsPractice\\Program.cs",
+              "RelativeToolTip": "VirtualFunctionsPractice\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:40:18.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day4\\Day4Projects\\InterfacePractice\\Program.cs",
+              "RelativeDocumentMoniker": "InterfacePractice\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day4\\Day4Projects\\InterfacePractice\\Program.cs",
+              "RelativeToolTip": "InterfacePractice\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:15:06.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day4\\Day4Projects\\InheritancePractice\\Form1.cs",
+              "RelativeDocumentMoniker": "InheritancePractice\\Form1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day4\\Day4Projects\\InheritancePractice\\Form1.cs",
+              "RelativeToolTip": "InheritancePractice\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:00:37.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day4\\Day4Projects\\InheritancePractice\\Form1.cs",
+              "RelativeDocumentMoniker": "InheritancePractice\\Form1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day4\\Day4Projects\\InheritancePractice\\Form1.cs [Design]",
+              "RelativeToolTip": "InheritancePractice\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:00:10.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day4\\Day4Projects\\FunctionOverLoading\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionOverLoading\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day4\\Day4Projects\\FunctionOverLoading\\Program.cs",
+              "RelativeToolTip": "FunctionOverLoading\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T09:50:20.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day4\\Day4Projects\\VirtualFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "VirtualFunctions\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day4\\Day4Projects\\VirtualFunctions\\Program.cs",
+              "RelativeToolTip": "VirtualFunctions\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowGQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T09:33:19.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day4\\Day4Projects\\AbstractClassDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "AbstractClassDemo\\Form1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day4\\Day4Projects\\AbstractClassDemo\\Form1.cs",
+              "RelativeToolTip": "AbstractClassDemo\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:18:48.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day4\\Day4Projects\\AbstractClassDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "AbstractClassDemo\\Form1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day4\\Day4Projects\\AbstractClassDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "AbstractClassDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:18:26.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day4\\Day4Projects\\InheritanceDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "InheritanceDemo\\Form1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day4\\Day4Projects\\InheritanceDemo\\Form1.cs",
+              "RelativeToolTip": "InheritanceDemo\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:50:58.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day4\\Day4Projects\\InheritanceDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "InheritanceDemo\\Form1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day4\\Day4Projects\\InheritanceDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "InheritanceDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:50:19.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day4\\Day4Projects\\StaticFunctionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StaticFunctionDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day4\\Day4Projects\\StaticFunctionDemo\\Program.cs",
+              "RelativeToolTip": "StaticFunctionDemo\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T05:36:17.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day4\\Day4Projects\\StaticVariableDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "StaticVariableDemo\\Form1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day4\\Day4Projects\\StaticVariableDemo\\Form1.cs",
+              "RelativeToolTip": "StaticVariableDemo\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T05:19:37.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day4\\Day4Projects\\StaticVariableDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "StaticVariableDemo\\Form1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day4\\Day4Projects\\StaticVariableDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "StaticVariableDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T05:13:29.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day4\\Day4Projects\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day4\\Day4Projects\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T04:40:40.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day4\\Day4Projects\\AccessSpecifiersDemo\\Program.cs",
+              "RelativeDocumentMoniker": "AccessSpecifiersDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day4\\Day4Projects\\AccessSpecifiersDemo\\Program.cs",
+              "RelativeToolTip": "AccessSpecifiersDemo\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T04:21:41.384Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

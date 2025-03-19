@@ -1,0 +1,7 @@
+C:\Wipro-Training\Day1Demos\PrintandscanDemo\bin\Debug\PrintandscanDemo.exe.config
+C:\Wipro-Training\Day1Demos\PrintandscanDemo\bin\Debug\PrintandscanDemo.exe
+C:\Wipro-Training\Day1Demos\PrintandscanDemo\bin\Debug\PrintandscanDemo.pdb
+C:\Wipro-Training\Day1Demos\PrintandscanDemo\obj\Debug\PrintandscanDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day1Demos\PrintandscanDemo\obj\Debug\PrintandscanDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day1Demos\PrintandscanDemo\obj\Debug\PrintandscanDemo.exe
+C:\Wipro-Training\Day1Demos\PrintandscanDemo\obj\Debug\PrintandscanDemo.pdb

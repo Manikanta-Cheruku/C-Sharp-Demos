@@ -1,0 +1,7 @@
+C:\Wipro-Training\Day6\Day6Projects\StackDemo\bin\Debug\StackDemo.exe.config
+C:\Wipro-Training\Day6\Day6Projects\StackDemo\bin\Debug\StackDemo.exe
+C:\Wipro-Training\Day6\Day6Projects\StackDemo\bin\Debug\StackDemo.pdb
+C:\Wipro-Training\Day6\Day6Projects\StackDemo\obj\Debug\StackDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day6\Day6Projects\StackDemo\obj\Debug\StackDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day6\Day6Projects\StackDemo\obj\Debug\StackDemo.exe
+C:\Wipro-Training\Day6\Day6Projects\StackDemo\obj\Debug\StackDemo.pdb

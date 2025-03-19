@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro-Training\\Day6\\Day6Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{127E5FF2-1D3E-4A32-801B-7DE18D02153E}|GenericInbuiltDelegatesDemo\\GenericInbuiltDelegatesDemo.csproj|c:\\wipro-training\\day6\\day6projects\\genericinbuiltdelegatesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127E5FF2-1D3E-4A32-801B-7DE18D02153E}|GenericInbuiltDelegatesDemo\\GenericInbuiltDelegatesDemo.csproj|solutionrelative:genericinbuiltdelegatesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E19F615-D696-45D4-8D85-AF0C876441F0}|EventDelegateDemo\\EventDelegateDemo.csproj|c:\\wipro-training\\day6\\day6projects\\eventdelegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E19F615-D696-45D4-8D85-AF0C876441F0}|EventDelegateDemo\\EventDelegateDemo.csproj|solutionrelative:eventdelegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF860DE8-36D3-4B68-B5EB-D6E92178174F}|DelegateDemoUsingLambdaExp\\DelegateDemoUsingLambdaExp.csproj|c:\\wipro-training\\day6\\day6projects\\delegatedemousinglambdaexp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF860DE8-36D3-4B68-B5EB-D6E92178174F}|DelegateDemoUsingLambdaExp\\DelegateDemoUsingLambdaExp.csproj|solutionrelative:delegatedemousinglambdaexp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58433A7E-3304-4D32-92F9-D660656DB7AC}|DelegateDemo02\\DelegateDemo02.csproj|c:\\wipro-training\\day6\\day6projects\\delegatedemo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58433A7E-3304-4D32-92F9-D660656DB7AC}|DelegateDemo02\\DelegateDemo02.csproj|solutionrelative:delegatedemo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B458F4-10F1-480F-A628-5C66129D7CFC}|DelegateDemo01\\DelegateDemo01.csproj|c:\\wipro-training\\day6\\day6projects\\delegatedemo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B458F4-10F1-480F-A628-5C66129D7CFC}|DelegateDemo01\\DelegateDemo01.csproj|solutionrelative:delegatedemo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92628EB2-8227-4311-90BD-04A0A67C531E}|QueueDemo\\QueueDemo.csproj|c:\\wipro-training\\day6\\day6projects\\queuedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92628EB2-8227-4311-90BD-04A0A67C531E}|QueueDemo\\QueueDemo.csproj|solutionrelative:queuedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF7BF8B-2548-4C5F-8DD1-73CA744FCDA9}|StackDemo\\StackDemo.csproj|c:\\wipro-training\\day6\\day6projects\\stackdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF7BF8B-2548-4C5F-8DD1-73CA744FCDA9}|StackDemo\\StackDemo.csproj|solutionrelative:stackdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA8EEAB-ACFC-42A6-847F-4355E5E492DD}|DictionaryDemo\\DictionaryDemo.csproj|c:\\wipro-training\\day6\\day6projects\\dictionarydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA8EEAB-ACFC-42A6-847F-4355E5E492DD}|DictionaryDemo\\DictionaryDemo.csproj|solutionrelative:dictionarydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDD3689-586F-4477-B982-3A3287F452FE}|ArrayDuplicateDemo\\ArrayDuplicateDemo.csproj|c:\\wipro-training\\day6\\day6projects\\arrayduplicatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDD3689-586F-4477-B982-3A3287F452FE}|ArrayDuplicateDemo\\ArrayDuplicateDemo.csproj|solutionrelative:arrayduplicatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5FEC8C-EAB5-4394-A52B-AE3F8D3CDE77}|GenericListDemo\\GenericListDemo.csproj|c:\\wipro-training\\day6\\day6projects\\genericlistdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5FEC8C-EAB5-4394-A52B-AE3F8D3CDE77}|GenericListDemo\\GenericListDemo.csproj|solutionrelative:genericlistdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A15CE4-68C4-4751-9711-05B2002DB96A}|GenericsDemo\\GenericsDemo.csproj|c:\\wipro-training\\day6\\day6projects\\genericsdemo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A15CE4-68C4-4751-9711-05B2002DB96A}|GenericsDemo\\GenericsDemo.csproj|solutionrelative:genericsdemo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A15CE4-68C4-4751-9711-05B2002DB96A}|GenericsDemo\\GenericsDemo.csproj|c:\\wipro-training\\day6\\day6projects\\genericsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A15CE4-68C4-4751-9711-05B2002DB96A}|GenericsDemo\\GenericsDemo.csproj|solutionrelative:genericsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day6\\Day6Projects\\GenericInbuiltDelegatesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "GenericInbuiltDelegatesDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day6\\Day6Projects\\GenericInbuiltDelegatesDemo\\Program.cs",
+              "RelativeToolTip": "GenericInbuiltDelegatesDemo\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:54:17.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day6\\Day6Projects\\EventDelegateDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EventDelegateDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day6\\Day6Projects\\EventDelegateDemo\\Program.cs",
+              "RelativeToolTip": "EventDelegateDemo\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:42:42.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day6\\Day6Projects\\DelegateDemoUsingLambdaExp\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateDemoUsingLambdaExp\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day6\\Day6Projects\\DelegateDemoUsingLambdaExp\\Program.cs",
+              "RelativeToolTip": "DelegateDemoUsingLambdaExp\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwC0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:16:07.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day6\\Day6Projects\\DelegateDemo02\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateDemo02\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day6\\Day6Projects\\DelegateDemo02\\Program.cs",
+              "RelativeToolTip": "DelegateDemo02\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:00:49.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day6\\Day6Projects\\DelegateDemo01\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateDemo01\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day6\\Day6Projects\\DelegateDemo01\\Program.cs",
+              "RelativeToolTip": "DelegateDemo01\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:37:08.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day6\\Day6Projects\\QueueDemo\\Program.cs",
+              "RelativeDocumentMoniker": "QueueDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day6\\Day6Projects\\QueueDemo\\Program.cs",
+              "RelativeToolTip": "QueueDemo\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvzcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:17:13.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day6\\Day6Projects\\StackDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StackDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day6\\Day6Projects\\StackDemo\\Program.cs",
+              "RelativeToolTip": "StackDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:10:12.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day6\\Day6Projects\\DictionaryDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DictionaryDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day6\\Day6Projects\\DictionaryDemo\\Program.cs",
+              "RelativeToolTip": "DictionaryDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:24:14.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day6\\Day6Projects\\ArrayDuplicateDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayDuplicateDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day6\\Day6Projects\\ArrayDuplicateDemo\\Program.cs",
+              "RelativeToolTip": "ArrayDuplicateDemo\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:34:25.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day6\\Day6Projects\\GenericListDemo\\Program.cs",
+              "RelativeDocumentMoniker": "GenericListDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day6\\Day6Projects\\GenericListDemo\\Program.cs",
+              "RelativeToolTip": "GenericListDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:11:22.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day6\\Day6Projects\\GenericsDemo\\Class1.cs",
+              "RelativeDocumentMoniker": "GenericsDemo\\Class1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day6\\Day6Projects\\GenericsDemo\\Class1.cs",
+              "RelativeToolTip": "GenericsDemo\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:34:47.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day6\\Day6Projects\\GenericsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "GenericsDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day6\\Day6Projects\\GenericsDemo\\Program.cs",
+              "RelativeToolTip": "GenericsDemo\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:24:32.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

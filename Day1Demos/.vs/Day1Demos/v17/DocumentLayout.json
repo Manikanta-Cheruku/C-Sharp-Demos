@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro-Training\\Day1Demos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24F9BB-F0A7-41C8-8E8A-A02E2DACA573}|CallbyValueAndReference\\CallbyValueAndReference.csproj|c:\\wipro-training\\day1demos\\callbyvalueandreference\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D24F9BB-F0A7-41C8-8E8A-A02E2DACA573}|CallbyValueAndReference\\CallbyValueAndReference.csproj|solutionrelative:callbyvalueandreference\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24F9BB-F0A7-41C8-8E8A-A02E2DACA573}|CallbyValueAndReference\\CallbyValueAndReference.csproj|c:\\wipro-training\\day1demos\\callbyvalueandreference\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D24F9BB-F0A7-41C8-8E8A-A02E2DACA573}|CallbyValueAndReference\\CallbyValueAndReference.csproj|solutionrelative:callbyvalueandreference\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24F9BB-F0A7-41C8-8E8A-A02E2DACA573}|CallbyValueAndReference\\CallbyValueAndReference.csproj|c:\\wipro-training\\day1demos\\callbyvalueandreference\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D24F9BB-F0A7-41C8-8E8A-A02E2DACA573}|CallbyValueAndReference\\CallbyValueAndReference.csproj|solutionrelative:callbyvalueandreference\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC20F5E-5A9E-4B60-B655-488F9F45BE0D}|ClassObjectDemo\\ClassObjectDemo.csproj|C:\\Wipro-Training\\Day1Demos\\classobjectdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FC20F5E-5A9E-4B60-B655-488F9F45BE0D}|ClassObjectDemo\\ClassObjectDemo.csproj|solutionrelative:classobjectdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC20F5E-5A9E-4B60-B655-488F9F45BE0D}|ClassObjectDemo\\ClassObjectDemo.csproj|c:\\wipro-training\\day1demos\\classobjectdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC20F5E-5A9E-4B60-B655-488F9F45BE0D}|ClassObjectDemo\\ClassObjectDemo.csproj|solutionrelative:classobjectdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99C34C-9AB6-4783-BE61-2FCEEB4B2486}|CubeDemo\\CubeDemo.csproj|c:\\wipro-training\\day1demos\\cubedemo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99C34C-9AB6-4783-BE61-2FCEEB4B2486}|CubeDemo\\CubeDemo.csproj|solutionrelative:cubedemo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271974E2-A903-4B30-84B2-CD64369FE15B}|PrintandscanDemo\\PrintandscanDemo.csproj|C:\\Wipro-Training\\Day1Demos\\printandscandemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271974E2-A903-4B30-84B2-CD64369FE15B}|PrintandscanDemo\\PrintandscanDemo.csproj|solutionrelative:printandscandemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day1Demos\\CallbyValueAndReference\\Form1.cs",
+              "RelativeDocumentMoniker": "CallbyValueAndReference\\Form1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day1Demos\\CallbyValueAndReference\\Form1.cs",
+              "RelativeToolTip": "CallbyValueAndReference\\Form1.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:37:02.894Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day1Demos\\CallbyValueAndReference\\Form1.cs",
+              "RelativeDocumentMoniker": "CallbyValueAndReference\\Form1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day1Demos\\CallbyValueAndReference\\Form1.cs [Design]",
+              "RelativeToolTip": "CallbyValueAndReference\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:32:22.303Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day1Demos\\CallbyValueAndReference\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CallbyValueAndReference\\Form1.Designer.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day1Demos\\CallbyValueAndReference\\Form1.Designer.cs",
+              "RelativeToolTip": "CallbyValueAndReference\\Form1.Designer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:48:03.941Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day1Demos\\ClassObjectDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "ClassObjectDemo\\Form1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day1Demos\\ClassObjectDemo\\Form1.cs",
+              "RelativeToolTip": "ClassObjectDemo\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:24:26.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day1Demos\\ClassObjectDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "ClassObjectDemo\\Form1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day1Demos\\ClassObjectDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "ClassObjectDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:14:21.946Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day1Demos\\CubeDemo\\Class1.cs",
+              "RelativeDocumentMoniker": "CubeDemo\\Class1.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day1Demos\\CubeDemo\\Class1.cs",
+              "RelativeToolTip": "CubeDemo\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:58:14.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day1Demos\\PrintandscanDemo\\Program.cs",
+              "RelativeDocumentMoniker": "PrintandscanDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day1Demos\\PrintandscanDemo\\Program.cs",
+              "RelativeToolTip": "PrintandscanDemo\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:06:46.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

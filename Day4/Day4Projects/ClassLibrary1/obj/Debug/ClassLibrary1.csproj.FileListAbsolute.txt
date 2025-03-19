@@ -1,0 +1,6 @@
+C:\Wipro-Training\Day4\Day4Projects\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Wipro-Training\Day4\Day4Projects\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day4\Day4Projects\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day4\Day4Projects\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Wipro-Training\Day4\Day4Projects\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Wipro-Training\Day4\Day4Projects\ClassLibrary1\obj\Debug\ClassLib.E736BF3C.Up2Date

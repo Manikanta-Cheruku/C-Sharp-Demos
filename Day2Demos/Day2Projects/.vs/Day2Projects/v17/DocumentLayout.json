@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A63B5ADA-DF86-4271-9A83-E33C3A54517D}|FactorialProblem\\FactorialProblem.csproj|C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\factorialproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63B5ADA-DF86-4271-9A83-E33C3A54517D}|FactorialProblem\\FactorialProblem.csproj|solutionrelative:factorialproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7DDBA-AAB3-448F-89BF-22CA84DEFE83}|JumpStatementsDemo\\JumpStatementsDemo.csproj|c:\\users\\manik\\source\\repos\\greatlearning\\day2demos\\day2projects\\jumpstatementsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7DDBA-AAB3-448F-89BF-22CA84DEFE83}|JumpStatementsDemo\\JumpStatementsDemo.csproj|solutionrelative:jumpstatementsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A03E159-6BA4-4DEC-BCD3-876B6142B1A7}|PracticeProgram\\PracticeProgram.csproj|C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\practiceprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A03E159-6BA4-4DEC-BCD3-876B6142B1A7}|PracticeProgram\\PracticeProgram.csproj|solutionrelative:practiceprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74BCF5E-C14E-4DB9-A184-372BB768F103}|SwitchDemo\\SwitchDemo.csproj|C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\switchdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74BCF5E-C14E-4DB9-A184-372BB768F103}|SwitchDemo\\SwitchDemo.csproj|solutionrelative:switchdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CBEFED-B95E-4063-B341-40195391304A}|LoopsDemo\\LoopsDemo.csproj|C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\loopsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76CBEFED-B95E-4063-B341-40195391304A}|LoopsDemo\\LoopsDemo.csproj|solutionrelative:loopsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B525D38-6EC3-4628-9838-BEFDAC321D39}|IfDemos\\IfDemos.csproj|C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\ifdemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B525D38-6EC3-4628-9838-BEFDAC321D39}|IfDemos\\IfDemos.csproj|solutionrelative:ifdemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\JumpStatementsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "JumpStatementsDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\JumpStatementsDemo\\Program.cs",
+              "RelativeToolTip": "JumpStatementsDemo\\Program.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:47:28.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\FactorialProblem\\Program.cs",
+              "RelativeDocumentMoniker": "FactorialProblem\\Program.cs",
+              "ToolTip": "C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\FactorialProblem\\Program.cs",
+              "RelativeToolTip": "FactorialProblem\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:30:32.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\PracticeProgram\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\PracticeProgram\\Program.cs",
+              "RelativeToolTip": "PracticeProgram\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:13:34.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\LoopsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "LoopsDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\LoopsDemo\\Program.cs",
+              "RelativeToolTip": "LoopsDemo\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:06:15.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\SwitchDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SwitchDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\SwitchDemo\\Program.cs",
+              "RelativeToolTip": "SwitchDemo\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwFoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:26:26.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\IfDemos\\Program.cs",
+              "RelativeDocumentMoniker": "IfDemos\\Program.cs",
+              "ToolTip": "C:\\Users\\manik\\source\\repos\\GreatLearning\\Day2Demos\\Day2Projects\\IfDemos\\Program.cs",
+              "RelativeToolTip": "IfDemos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:20:26.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

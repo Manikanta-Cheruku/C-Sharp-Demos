@@ -1,0 +1,7 @@
+C:\Wipro-Training\Delegates\PracticeDelegates\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Wipro-Training\Delegates\PracticeDelegates\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Wipro-Training\Delegates\PracticeDelegates\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Wipro-Training\Delegates\PracticeDelegates\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Wipro-Training\Delegates\PracticeDelegates\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Delegates\PracticeDelegates\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Wipro-Training\Delegates\PracticeDelegates\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

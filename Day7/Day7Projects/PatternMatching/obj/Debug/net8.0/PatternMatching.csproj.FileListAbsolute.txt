@@ -1,0 +1,14 @@
+C:\Wipro-Training\Day7\Day7Projects\PatternMatching\bin\Debug\net8.0\PatternMatching.exe
+C:\Wipro-Training\Day7\Day7Projects\PatternMatching\bin\Debug\net8.0\PatternMatching.deps.json
+C:\Wipro-Training\Day7\Day7Projects\PatternMatching\bin\Debug\net8.0\PatternMatching.runtimeconfig.json
+C:\Wipro-Training\Day7\Day7Projects\PatternMatching\bin\Debug\net8.0\PatternMatching.dll
+C:\Wipro-Training\Day7\Day7Projects\PatternMatching\bin\Debug\net8.0\PatternMatching.pdb
+C:\Wipro-Training\Day7\Day7Projects\PatternMatching\obj\Debug\net8.0\PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro-Training\Day7\Day7Projects\PatternMatching\obj\Debug\net8.0\PatternMatching.AssemblyInfoInputs.cache
+C:\Wipro-Training\Day7\Day7Projects\PatternMatching\obj\Debug\net8.0\PatternMatching.AssemblyInfo.cs
+C:\Wipro-Training\Day7\Day7Projects\PatternMatching\obj\Debug\net8.0\PatternMatching.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day7\Day7Projects\PatternMatching\obj\Debug\net8.0\PatternMatching.dll
+C:\Wipro-Training\Day7\Day7Projects\PatternMatching\obj\Debug\net8.0\refint\PatternMatching.dll
+C:\Wipro-Training\Day7\Day7Projects\PatternMatching\obj\Debug\net8.0\PatternMatching.pdb
+C:\Wipro-Training\Day7\Day7Projects\PatternMatching\obj\Debug\net8.0\PatternMatching.genruntimeconfig.cache
+C:\Wipro-Training\Day7\Day7Projects\PatternMatching\obj\Debug\net8.0\ref\PatternMatching.dll

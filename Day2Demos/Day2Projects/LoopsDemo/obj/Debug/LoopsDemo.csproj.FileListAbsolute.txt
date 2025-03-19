@@ -1,0 +1,7 @@
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\LoopsDemo\bin\Debug\LoopsDemo.exe.config
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\LoopsDemo\bin\Debug\LoopsDemo.exe
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\LoopsDemo\bin\Debug\LoopsDemo.pdb
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\LoopsDemo\obj\Debug\LoopsDemo.csproj.AssemblyReference.cache
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\LoopsDemo\obj\Debug\LoopsDemo.csproj.CoreCompileInputs.cache
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\LoopsDemo\obj\Debug\LoopsDemo.exe
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\LoopsDemo\obj\Debug\LoopsDemo.pdb

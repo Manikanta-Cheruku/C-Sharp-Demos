@@ -1,0 +1,14 @@
+C:\Wipro-Training\Day8\ReflectionDemo\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.exe
+C:\Wipro-Training\Day8\ReflectionDemo\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.deps.json
+C:\Wipro-Training\Day8\ReflectionDemo\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.runtimeconfig.json
+C:\Wipro-Training\Day8\ReflectionDemo\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.dll
+C:\Wipro-Training\Day8\ReflectionDemo\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.pdb
+C:\Wipro-Training\Day8\ReflectionDemo\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro-Training\Day8\ReflectionDemo\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.AssemblyInfoInputs.cache
+C:\Wipro-Training\Day8\ReflectionDemo\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.AssemblyInfo.cs
+C:\Wipro-Training\Day8\ReflectionDemo\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day8\ReflectionDemo\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.dll
+C:\Wipro-Training\Day8\ReflectionDemo\ReflectionDemo\obj\Debug\net8.0\refint\ReflectionDemo.dll
+C:\Wipro-Training\Day8\ReflectionDemo\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.pdb
+C:\Wipro-Training\Day8\ReflectionDemo\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.genruntimeconfig.cache
+C:\Wipro-Training\Day8\ReflectionDemo\ReflectionDemo\obj\Debug\net8.0\ref\ReflectionDemo.dll

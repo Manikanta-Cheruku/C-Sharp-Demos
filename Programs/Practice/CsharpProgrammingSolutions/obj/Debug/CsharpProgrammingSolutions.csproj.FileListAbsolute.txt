@@ -1,0 +1,7 @@
+C:\Wipro-Training\Programs\Practice\CsharpProgrammingSolutions\bin\Debug\CsharpProgrammingSolutions.exe.config
+C:\Wipro-Training\Programs\Practice\CsharpProgrammingSolutions\bin\Debug\CsharpProgrammingSolutions.exe
+C:\Wipro-Training\Programs\Practice\CsharpProgrammingSolutions\bin\Debug\CsharpProgrammingSolutions.pdb
+C:\Wipro-Training\Programs\Practice\CsharpProgrammingSolutions\obj\Debug\CsharpProgrammingSolutions.csproj.AssemblyReference.cache
+C:\Wipro-Training\Programs\Practice\CsharpProgrammingSolutions\obj\Debug\CsharpProgrammingSolutions.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Programs\Practice\CsharpProgrammingSolutions\obj\Debug\CsharpProgrammingSolutions.exe
+C:\Wipro-Training\Programs\Practice\CsharpProgrammingSolutions\obj\Debug\CsharpProgrammingSolutions.pdb

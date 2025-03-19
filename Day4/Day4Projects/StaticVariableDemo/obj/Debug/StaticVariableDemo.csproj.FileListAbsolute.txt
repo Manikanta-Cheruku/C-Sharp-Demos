@@ -1,0 +1,10 @@
+C:\Wipro-Training\Day4\Day4Projects\StaticVariableDemo\bin\Debug\StaticVariableDemo.exe.config
+C:\Wipro-Training\Day4\Day4Projects\StaticVariableDemo\bin\Debug\StaticVariableDemo.exe
+C:\Wipro-Training\Day4\Day4Projects\StaticVariableDemo\bin\Debug\StaticVariableDemo.pdb
+C:\Wipro-Training\Day4\Day4Projects\StaticVariableDemo\obj\Debug\StaticVariableDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day4\Day4Projects\StaticVariableDemo\obj\Debug\StaticVariableDemo.Form1.resources
+C:\Wipro-Training\Day4\Day4Projects\StaticVariableDemo\obj\Debug\StaticVariableDemo.Properties.Resources.resources
+C:\Wipro-Training\Day4\Day4Projects\StaticVariableDemo\obj\Debug\StaticVariableDemo.csproj.GenerateResource.cache
+C:\Wipro-Training\Day4\Day4Projects\StaticVariableDemo\obj\Debug\StaticVariableDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day4\Day4Projects\StaticVariableDemo\obj\Debug\StaticVariableDemo.exe
+C:\Wipro-Training\Day4\Day4Projects\StaticVariableDemo\obj\Debug\StaticVariableDemo.pdb

@@ -1,0 +1,7 @@
+C:\Wipro-Training\Day3\Day3Projects\PropertiesDemo\obj\Debug\PropertiesDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day3\Day3Projects\PropertiesDemo\obj\Debug\PropertiesDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day3\Day3Projects\PropertiesDemo\bin\Debug\PropertiesDemo.exe.config
+C:\Wipro-Training\Day3\Day3Projects\PropertiesDemo\bin\Debug\PropertiesDemo.exe
+C:\Wipro-Training\Day3\Day3Projects\PropertiesDemo\bin\Debug\PropertiesDemo.pdb
+C:\Wipro-Training\Day3\Day3Projects\PropertiesDemo\obj\Debug\PropertiesDemo.exe
+C:\Wipro-Training\Day3\Day3Projects\PropertiesDemo\obj\Debug\PropertiesDemo.pdb

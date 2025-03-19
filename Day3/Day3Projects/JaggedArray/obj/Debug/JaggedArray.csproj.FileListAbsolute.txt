@@ -1,0 +1,7 @@
+C:\Wipro-Training\Day3\Day3Projects\JaggedArray\bin\Debug\JaggedArray.exe.config
+C:\Wipro-Training\Day3\Day3Projects\JaggedArray\bin\Debug\JaggedArray.exe
+C:\Wipro-Training\Day3\Day3Projects\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\Wipro-Training\Day3\Day3Projects\JaggedArray\obj\Debug\JaggedArray.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day3\Day3Projects\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day3\Day3Projects\JaggedArray\obj\Debug\JaggedArray.exe
+C:\Wipro-Training\Day3\Day3Projects\JaggedArray\obj\Debug\JaggedArray.pdb

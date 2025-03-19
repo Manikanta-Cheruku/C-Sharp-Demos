@@ -1,0 +1,10 @@
+C:\Wipro-Training\Delegates\PracticeDelegates\DelegateFormExample\bin\Debug\DelegateFormExample.exe.config
+C:\Wipro-Training\Delegates\PracticeDelegates\DelegateFormExample\bin\Debug\DelegateFormExample.exe
+C:\Wipro-Training\Delegates\PracticeDelegates\DelegateFormExample\bin\Debug\DelegateFormExample.pdb
+C:\Wipro-Training\Delegates\PracticeDelegates\DelegateFormExample\obj\Debug\DelegateFormExample.csproj.AssemblyReference.cache
+C:\Wipro-Training\Delegates\PracticeDelegates\DelegateFormExample\obj\Debug\DelegateFormExample.Form1.resources
+C:\Wipro-Training\Delegates\PracticeDelegates\DelegateFormExample\obj\Debug\DelegateFormExample.Properties.Resources.resources
+C:\Wipro-Training\Delegates\PracticeDelegates\DelegateFormExample\obj\Debug\DelegateFormExample.csproj.GenerateResource.cache
+C:\Wipro-Training\Delegates\PracticeDelegates\DelegateFormExample\obj\Debug\DelegateFormExample.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Delegates\PracticeDelegates\DelegateFormExample\obj\Debug\DelegateFormExample.exe
+C:\Wipro-Training\Delegates\PracticeDelegates\DelegateFormExample\obj\Debug\DelegateFormExample.pdb

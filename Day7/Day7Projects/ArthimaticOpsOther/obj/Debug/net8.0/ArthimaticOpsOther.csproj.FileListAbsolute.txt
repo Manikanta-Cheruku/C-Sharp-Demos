@@ -1,0 +1,11 @@
+C:\Wipro-Training\Day7\Day7Projects\ArthimaticOpsOther\obj\Debug\net8.0\ArthimaticOpsOther.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro-Training\Day7\Day7Projects\ArthimaticOpsOther\obj\Debug\net8.0\ArthimaticOpsOther.AssemblyInfoInputs.cache
+C:\Wipro-Training\Day7\Day7Projects\ArthimaticOpsOther\obj\Debug\net8.0\ArthimaticOpsOther.AssemblyInfo.cs
+C:\Wipro-Training\Day7\Day7Projects\ArthimaticOpsOther\obj\Debug\net8.0\ArthimaticOpsOther.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day7\Day7Projects\ArthimaticOpsOther\bin\Debug\net8.0\ArthimaticOpsOther.deps.json
+C:\Wipro-Training\Day7\Day7Projects\ArthimaticOpsOther\bin\Debug\net8.0\ArthimaticOpsOther.dll
+C:\Wipro-Training\Day7\Day7Projects\ArthimaticOpsOther\bin\Debug\net8.0\ArthimaticOpsOther.pdb
+C:\Wipro-Training\Day7\Day7Projects\ArthimaticOpsOther\obj\Debug\net8.0\ArthimaticOpsOther.dll
+C:\Wipro-Training\Day7\Day7Projects\ArthimaticOpsOther\obj\Debug\net8.0\refint\ArthimaticOpsOther.dll
+C:\Wipro-Training\Day7\Day7Projects\ArthimaticOpsOther\obj\Debug\net8.0\ArthimaticOpsOther.pdb
+C:\Wipro-Training\Day7\Day7Projects\ArthimaticOpsOther\obj\Debug\net8.0\ref\ArthimaticOpsOther.dll

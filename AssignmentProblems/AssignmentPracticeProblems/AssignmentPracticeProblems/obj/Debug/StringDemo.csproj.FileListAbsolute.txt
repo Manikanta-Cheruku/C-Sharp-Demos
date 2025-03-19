@@ -1,0 +1,7 @@
+C:\Wipro-Training\AssignmentProblems\AssignmentPracticeProblems\AssignmentPracticeProblems\bin\Debug\AssignmentPracticeProblems.exe.config
+C:\Wipro-Training\AssignmentProblems\AssignmentPracticeProblems\AssignmentPracticeProblems\bin\Debug\AssignmentPracticeProblems.exe
+C:\Wipro-Training\AssignmentProblems\AssignmentPracticeProblems\AssignmentPracticeProblems\bin\Debug\AssignmentPracticeProblems.pdb
+C:\Wipro-Training\AssignmentProblems\AssignmentPracticeProblems\AssignmentPracticeProblems\obj\Debug\StringDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\AssignmentProblems\AssignmentPracticeProblems\AssignmentPracticeProblems\obj\Debug\StringDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\AssignmentProblems\AssignmentPracticeProblems\AssignmentPracticeProblems\obj\Debug\AssignmentPracticeProblems.exe
+C:\Wipro-Training\AssignmentProblems\AssignmentPracticeProblems\AssignmentPracticeProblems\obj\Debug\AssignmentPracticeProblems.pdb

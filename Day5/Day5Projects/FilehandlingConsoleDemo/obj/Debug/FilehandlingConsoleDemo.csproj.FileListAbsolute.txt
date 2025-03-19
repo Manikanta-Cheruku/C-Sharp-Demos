@@ -1,0 +1,8 @@
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingConsoleDemo\bin\Debug\Wipro.txt
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingConsoleDemo\bin\Debug\FilehandlingConsoleDemo.exe.config
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingConsoleDemo\bin\Debug\FilehandlingConsoleDemo.exe
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingConsoleDemo\bin\Debug\FilehandlingConsoleDemo.pdb
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingConsoleDemo\obj\Debug\FilehandlingConsoleDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingConsoleDemo\obj\Debug\FilehandlingConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingConsoleDemo\obj\Debug\FilehandlingConsoleDemo.exe
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingConsoleDemo\obj\Debug\FilehandlingConsoleDemo.pdb

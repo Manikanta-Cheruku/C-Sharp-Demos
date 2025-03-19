@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro-Training\\Day3\\Day3Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86E8DA7F-6112-41B9-B32B-E441124C62D0}|ArraysDemo\\ArraysDemo.csproj|c:\\wipro-training\\day3\\day3projects\\arraysdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E8DA7F-6112-41B9-B32B-E441124C62D0}|ArraysDemo\\ArraysDemo.csproj|solutionrelative:arraysdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8910879-D0FB-4778-B463-B2A2CE5250A3}|StringBuilderDemo\\StringBuilderDemo.csproj|c:\\wipro-training\\day3\\day3projects\\stringbuilderdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8910879-D0FB-4778-B463-B2A2CE5250A3}|StringBuilderDemo\\StringBuilderDemo.csproj|solutionrelative:stringbuilderdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF440CD9-A604-4B7D-A677-6814FDF42272}|JaggedArray\\JaggedArray.csproj|c:\\wipro-training\\day3\\day3projects\\jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF440CD9-A604-4B7D-A677-6814FDF42272}|JaggedArray\\JaggedArray.csproj|solutionrelative:jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB75D3D9-CB02-402B-A809-4033F998D7F3}|TwoDimensionalArray\\TwoDimensionalArray.csproj|c:\\wipro-training\\day3\\day3projects\\twodimensionalarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB75D3D9-CB02-402B-A809-4033F998D7F3}|TwoDimensionalArray\\TwoDimensionalArray.csproj|solutionrelative:twodimensionalarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B128F11-02C4-4D21-918F-10B1B7F346F9}|PropertiesDemo\\PropertiesDemo.csproj|c:\\wipro-training\\day3\\day3projects\\propertiesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B128F11-02C4-4D21-918F-10B1B7F346F9}|PropertiesDemo\\PropertiesDemo.csproj|solutionrelative:propertiesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81AECB3-E683-4329-A1EA-41BB81135CA9}|PropertiesDemo01\\PropertiesDemo01.csproj|c:\\wipro-training\\day3\\day3projects\\propertiesdemo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81AECB3-E683-4329-A1EA-41BB81135CA9}|PropertiesDemo01\\PropertiesDemo01.csproj|solutionrelative:propertiesdemo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day3\\Day3Projects\\StringBuilderDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StringBuilderDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day3\\Day3Projects\\StringBuilderDemo\\Program.cs",
+              "RelativeToolTip": "StringBuilderDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:08:38.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day3\\Day3Projects\\PropertiesDemo01\\Program.cs",
+              "RelativeDocumentMoniker": "PropertiesDemo01\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day3\\Day3Projects\\PropertiesDemo01\\Program.cs",
+              "RelativeToolTip": "PropertiesDemo01\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:58:03.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day3\\Day3Projects\\TwoDimensionalArray\\Program.cs",
+              "RelativeDocumentMoniker": "TwoDimensionalArray\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day3\\Day3Projects\\TwoDimensionalArray\\Program.cs",
+              "RelativeToolTip": "TwoDimensionalArray\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:14:35.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day3\\Day3Projects\\ArraysDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ArraysDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day3\\Day3Projects\\ArraysDemo\\Program.cs",
+              "RelativeToolTip": "ArraysDemo\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T03:34:37.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day3\\Day3Projects\\JaggedArray\\Program.cs",
+              "RelativeDocumentMoniker": "JaggedArray\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day3\\Day3Projects\\JaggedArray\\Program.cs",
+              "RelativeToolTip": "JaggedArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:57:06.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day3\\Day3Projects\\PropertiesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "PropertiesDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day3\\Day3Projects\\PropertiesDemo\\Program.cs",
+              "RelativeToolTip": "PropertiesDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T06:28:33.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

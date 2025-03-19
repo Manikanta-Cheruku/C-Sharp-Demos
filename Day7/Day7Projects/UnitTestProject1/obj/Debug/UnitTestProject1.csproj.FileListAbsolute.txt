@@ -1,0 +1,17 @@
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\bin\Debug\PasswordStrength.dll
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\bin\Debug\PasswordStrength.pdb
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\obj\Debug\UnitTest.40E657F8.Up2Date
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Wipro-Training\Day7\Day7Projects\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

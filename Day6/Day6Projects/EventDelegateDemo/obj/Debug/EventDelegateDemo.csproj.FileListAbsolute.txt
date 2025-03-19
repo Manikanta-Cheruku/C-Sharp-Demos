@@ -1,0 +1,7 @@
+C:\Wipro-Training\Day6\Day6Projects\EventDelegateDemo\bin\Debug\EventDelegateDemo.exe.config
+C:\Wipro-Training\Day6\Day6Projects\EventDelegateDemo\bin\Debug\EventDelegateDemo.exe
+C:\Wipro-Training\Day6\Day6Projects\EventDelegateDemo\bin\Debug\EventDelegateDemo.pdb
+C:\Wipro-Training\Day6\Day6Projects\EventDelegateDemo\obj\Debug\EventDelegateDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day6\Day6Projects\EventDelegateDemo\obj\Debug\EventDelegateDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day6\Day6Projects\EventDelegateDemo\obj\Debug\EventDelegateDemo.exe
+C:\Wipro-Training\Day6\Day6Projects\EventDelegateDemo\obj\Debug\EventDelegateDemo.pdb

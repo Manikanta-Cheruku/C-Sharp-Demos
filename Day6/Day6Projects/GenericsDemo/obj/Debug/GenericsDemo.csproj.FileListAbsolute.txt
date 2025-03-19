@@ -1,0 +1,7 @@
+C:\Wipro-Training\Day6\Day6Projects\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+C:\Wipro-Training\Day6\Day6Projects\GenericsDemo\bin\Debug\GenericsDemo.exe
+C:\Wipro-Training\Day6\Day6Projects\GenericsDemo\bin\Debug\GenericsDemo.pdb
+C:\Wipro-Training\Day6\Day6Projects\GenericsDemo\obj\Debug\GenericsDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day6\Day6Projects\GenericsDemo\obj\Debug\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day6\Day6Projects\GenericsDemo\obj\Debug\GenericsDemo.exe
+C:\Wipro-Training\Day6\Day6Projects\GenericsDemo\obj\Debug\GenericsDemo.pdb

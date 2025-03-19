@@ -1,0 +1,7 @@
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\IfDemos\bin\Debug\IfDemos.exe.config
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\IfDemos\bin\Debug\IfDemos.exe
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\IfDemos\bin\Debug\IfDemos.pdb
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\IfDemos\obj\Debug\IfDemos.csproj.AssemblyReference.cache
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\IfDemos\obj\Debug\IfDemos.csproj.CoreCompileInputs.cache
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\IfDemos\obj\Debug\IfDemos.exe
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\IfDemos\obj\Debug\IfDemos.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArthimaticOpsOther/1.0.0": {
+        "runtime": {
+          "ArthimaticOpsOther.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArthimaticOpsOther/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

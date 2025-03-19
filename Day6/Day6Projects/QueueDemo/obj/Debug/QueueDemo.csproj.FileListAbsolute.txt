@@ -1,0 +1,7 @@
+C:\Wipro-Training\Day6\Day6Projects\QueueDemo\obj\Debug\QueueDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day6\Day6Projects\QueueDemo\obj\Debug\QueueDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day6\Day6Projects\QueueDemo\bin\Debug\QueueDemo.exe.config
+C:\Wipro-Training\Day6\Day6Projects\QueueDemo\bin\Debug\QueueDemo.exe
+C:\Wipro-Training\Day6\Day6Projects\QueueDemo\bin\Debug\QueueDemo.pdb
+C:\Wipro-Training\Day6\Day6Projects\QueueDemo\obj\Debug\QueueDemo.exe
+C:\Wipro-Training\Day6\Day6Projects\QueueDemo\obj\Debug\QueueDemo.pdb

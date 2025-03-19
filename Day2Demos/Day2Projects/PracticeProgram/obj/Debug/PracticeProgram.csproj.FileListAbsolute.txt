@@ -1,0 +1,7 @@
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\PracticeProgram\bin\Debug\PracticeProgram.exe.config
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\PracticeProgram\bin\Debug\PracticeProgram.exe
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\PracticeProgram\bin\Debug\PracticeProgram.pdb
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\PracticeProgram\obj\Debug\PracticeProgram.csproj.AssemblyReference.cache
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\PracticeProgram\obj\Debug\PracticeProgram.csproj.CoreCompileInputs.cache
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\PracticeProgram\obj\Debug\PracticeProgram.exe
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\PracticeProgram\obj\Debug\PracticeProgram.pdb

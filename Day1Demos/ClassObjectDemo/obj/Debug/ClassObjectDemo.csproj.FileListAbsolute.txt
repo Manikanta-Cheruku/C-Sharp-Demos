@@ -1,0 +1,13 @@
+C:\Wipro-Training\Day1Demos\ClassObjectDemo\bin\Debug\ClassObjectDemo.exe.config
+C:\Wipro-Training\Day1Demos\ClassObjectDemo\bin\Debug\ClassObjectDemo.exe
+C:\Wipro-Training\Day1Demos\ClassObjectDemo\bin\Debug\ClassObjectDemo.pdb
+C:\Wipro-Training\Day1Demos\ClassObjectDemo\obj\Debug\ClassObjectDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day1Demos\ClassObjectDemo\obj\Debug\ClassObjectDemo.Form1.resources
+C:\Wipro-Training\Day1Demos\ClassObjectDemo\obj\Debug\ClassObjectDemo.Properties.Resources.resources
+C:\Wipro-Training\Day1Demos\ClassObjectDemo\obj\Debug\ClassObjectDemo.csproj.GenerateResource.cache
+C:\Wipro-Training\Day1Demos\ClassObjectDemo\obj\Debug\ClassObjectDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day1Demos\ClassObjectDemo\obj\Debug\ClassObjectDemo.exe
+C:\Wipro-Training\Day1Demos\ClassObjectDemo\obj\Debug\ClassObjectDemo.pdb
+C:\Wipro-Training\Day1Demos\ClassObjectDemo\bin\Debug\CubeDemo.dll
+C:\Wipro-Training\Day1Demos\ClassObjectDemo\bin\Debug\CubeDemo.pdb
+C:\Wipro-Training\Day1Demos\ClassObjectDemo\obj\Debug\ClassObj.C964E8F6.Up2Date

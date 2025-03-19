@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro-Training\\Day9\\Day9Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|c:\\wipro-training\\day9\\day9projects\\razordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|c:\\wipro-training\\day9\\day9projects\\razordemo\\sensitive.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\sensitive.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|c:\\wipro-training\\day9\\day9projects\\razordemo\\razordemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\razordemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|c:\\wipro-training\\day9\\day9projects\\razordemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|c:\\wipro-training\\day9\\day9projects\\razordemo\\pages\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|c:\\wipro-training\\day9\\day9projects\\razordemo\\pages\\products\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\products\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|c:\\wipro-training\\day9\\day9projects\\razordemo\\pages\\products\\productindex.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\products\\productindex.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|c:\\wipro-training\\day9\\day9projects\\razordemo\\pages\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|c:\\wipro-training\\day9\\day9projects\\razordemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|c:\\wipro-training\\day9\\day9projects\\razordemo\\pages\\blue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\blue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|c:\\wipro-training\\day9\\day9projects\\razordemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|c:\\wipro-training\\day9\\day9projects\\razordemo\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|c:\\wipro-training\\day9\\day9projects\\razordemo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|c:\\wipro-training\\day9\\day9projects\\razordemo\\pages\\blue.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\pages\\blue.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|c:\\wipro-training\\day9\\day9projects\\razordemo\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D9ADDC-EF54-4FC2-B56C-3DE98E47B598}|RazorDemo\\RazorDemo.csproj|solutionrelative:razordemo\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sensitive.json",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\sensitive.json",
+              "RelativeDocumentMoniker": "RazorDemo\\sensitive.json",
+              "ToolTip": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\sensitive.json",
+              "RelativeToolTip": "RazorDemo\\sensitive.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T07:27:25.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductIndex.cshtml.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\Products\\ProductIndex.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Products\\ProductIndex.cshtml.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\Products\\ProductIndex.cshtml.cs",
+              "RelativeToolTip": "RazorDemo\\Pages\\Products\\ProductIndex.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:06:37.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductIndex.cshtml",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\Products\\ProductIndex.cshtml",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Products\\ProductIndex.cshtml",
+              "ToolTip": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\Products\\ProductIndex.cshtml",
+              "RelativeToolTip": "RazorDemo\\Pages\\Products\\ProductIndex.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T07:06:19.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Program.cs",
+              "RelativeDocumentMoniker": "RazorDemo\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Program.cs",
+              "RelativeToolTip": "RazorDemo\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:03:56.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\service\\ProductService.cs",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\service\\ProductService.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\service\\ProductService.cs",
+              "RelativeToolTip": "RazorDemo\\Pages\\service\\ProductService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:03:01.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RazorDemo\\Models\\Product.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Models\\Product.cs",
+              "RelativeToolTip": "RazorDemo\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T06:50:12.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RazorDemo",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\RazorDemo.csproj",
+              "RelativeDocumentMoniker": "RazorDemo\\RazorDemo.csproj",
+              "ToolTip": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\RazorDemo.csproj",
+              "RelativeToolTip": "RazorDemo\\RazorDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-24T06:28:03.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "RazorDemo\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T05:37:18.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorDemo\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:34:58.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "RazorDemo\\Pages\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T05:23:07.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorDemo\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T04:37:17.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Blue.cshtml.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\Blue.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Blue.cshtml.cs",
+              "ToolTip": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\Blue.cshtml.cs",
+              "RelativeToolTip": "RazorDemo\\Pages\\Blue.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:35:28.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "RazorDemo\\wwwroot\\index.html",
+              "ToolTip": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\wwwroot\\index.html",
+              "RelativeToolTip": "RazorDemo\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-24T04:35:11.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Blue.cshtml",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\Blue.cshtml",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Blue.cshtml",
+              "ToolTip": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\Blue.cshtml",
+              "RelativeToolTip": "RazorDemo\\Pages\\Blue.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T04:34:28.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorDemo\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Wipro-Training\\Day9\\Day9Projects\\RazorDemo\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorDemo\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:59:43.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

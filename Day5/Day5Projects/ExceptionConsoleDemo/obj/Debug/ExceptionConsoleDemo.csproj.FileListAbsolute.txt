@@ -1,0 +1,7 @@
+C:\Wipro-Training\Day5\Day5Projects\ExceptionConsoleDemo\bin\Debug\ExceptionConsoleDemo.exe.config
+C:\Wipro-Training\Day5\Day5Projects\ExceptionConsoleDemo\bin\Debug\ExceptionConsoleDemo.exe
+C:\Wipro-Training\Day5\Day5Projects\ExceptionConsoleDemo\bin\Debug\ExceptionConsoleDemo.pdb
+C:\Wipro-Training\Day5\Day5Projects\ExceptionConsoleDemo\obj\Debug\ExceptionConsoleDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day5\Day5Projects\ExceptionConsoleDemo\obj\Debug\ExceptionConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day5\Day5Projects\ExceptionConsoleDemo\obj\Debug\ExceptionConsoleDemo.exe
+C:\Wipro-Training\Day5\Day5Projects\ExceptionConsoleDemo\obj\Debug\ExceptionConsoleDemo.pdb

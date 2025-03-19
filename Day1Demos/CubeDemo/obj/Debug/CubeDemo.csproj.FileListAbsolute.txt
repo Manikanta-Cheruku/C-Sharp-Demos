@@ -1,0 +1,6 @@
+C:\Wipro-Training\Day1Demos\CubeDemo\bin\Debug\CubeDemo.dll
+C:\Wipro-Training\Day1Demos\CubeDemo\bin\Debug\CubeDemo.pdb
+C:\Wipro-Training\Day1Demos\CubeDemo\obj\Debug\CubeDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day1Demos\CubeDemo\obj\Debug\CubeDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day1Demos\CubeDemo\obj\Debug\CubeDemo.dll
+C:\Wipro-Training\Day1Demos\CubeDemo\obj\Debug\CubeDemo.pdb

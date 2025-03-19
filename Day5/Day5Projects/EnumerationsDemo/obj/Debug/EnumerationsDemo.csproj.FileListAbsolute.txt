@@ -1,0 +1,7 @@
+C:\Wipro-Training\Day5\Day5Projects\EnumerationsDemo\bin\Debug\EnumerationsDemo.exe.config
+C:\Wipro-Training\Day5\Day5Projects\EnumerationsDemo\bin\Debug\EnumerationsDemo.exe
+C:\Wipro-Training\Day5\Day5Projects\EnumerationsDemo\bin\Debug\EnumerationsDemo.pdb
+C:\Wipro-Training\Day5\Day5Projects\EnumerationsDemo\obj\Debug\EnumerationsDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day5\Day5Projects\EnumerationsDemo\obj\Debug\EnumerationsDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day5\Day5Projects\EnumerationsDemo\obj\Debug\EnumerationsDemo.exe
+C:\Wipro-Training\Day5\Day5Projects\EnumerationsDemo\obj\Debug\EnumerationsDemo.pdb

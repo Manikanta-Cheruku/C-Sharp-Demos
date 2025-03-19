@@ -1,0 +1,14 @@
+C:\Wipro-Training\Day7\Day7Projects\C_newfeautures_Demo\bin\Debug\net8.0\C_newfeautures_Demo.exe
+C:\Wipro-Training\Day7\Day7Projects\C_newfeautures_Demo\bin\Debug\net8.0\C_newfeautures_Demo.deps.json
+C:\Wipro-Training\Day7\Day7Projects\C_newfeautures_Demo\bin\Debug\net8.0\C_newfeautures_Demo.runtimeconfig.json
+C:\Wipro-Training\Day7\Day7Projects\C_newfeautures_Demo\bin\Debug\net8.0\C_newfeautures_Demo.dll
+C:\Wipro-Training\Day7\Day7Projects\C_newfeautures_Demo\bin\Debug\net8.0\C_newfeautures_Demo.pdb
+C:\Wipro-Training\Day7\Day7Projects\C_newfeautures_Demo\obj\Debug\net8.0\C_newfeautures_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro-Training\Day7\Day7Projects\C_newfeautures_Demo\obj\Debug\net8.0\C_newfeautures_Demo.AssemblyInfoInputs.cache
+C:\Wipro-Training\Day7\Day7Projects\C_newfeautures_Demo\obj\Debug\net8.0\C_newfeautures_Demo.AssemblyInfo.cs
+C:\Wipro-Training\Day7\Day7Projects\C_newfeautures_Demo\obj\Debug\net8.0\C_newfeautures_Demo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day7\Day7Projects\C_newfeautures_Demo\obj\Debug\net8.0\C_newfeautures_Demo.dll
+C:\Wipro-Training\Day7\Day7Projects\C_newfeautures_Demo\obj\Debug\net8.0\refint\C_newfeautures_Demo.dll
+C:\Wipro-Training\Day7\Day7Projects\C_newfeautures_Demo\obj\Debug\net8.0\C_newfeautures_Demo.pdb
+C:\Wipro-Training\Day7\Day7Projects\C_newfeautures_Demo\obj\Debug\net8.0\C_newfeautures_Demo.genruntimeconfig.cache
+C:\Wipro-Training\Day7\Day7Projects\C_newfeautures_Demo\obj\Debug\net8.0\ref\C_newfeautures_Demo.dll

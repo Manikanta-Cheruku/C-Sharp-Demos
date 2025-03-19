@@ -1,0 +1,7 @@
+C:\Wipro-Training\Day8\ReflectionDemo\ThreadDemo\bin\Debug\ThreadDemo.exe.config
+C:\Wipro-Training\Day8\ReflectionDemo\ThreadDemo\bin\Debug\ThreadDemo.exe
+C:\Wipro-Training\Day8\ReflectionDemo\ThreadDemo\bin\Debug\ThreadDemo.pdb
+C:\Wipro-Training\Day8\ReflectionDemo\ThreadDemo\obj\Debug\ThreadDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day8\ReflectionDemo\ThreadDemo\obj\Debug\ThreadDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day8\ReflectionDemo\ThreadDemo\obj\Debug\ThreadDemo.exe
+C:\Wipro-Training\Day8\ReflectionDemo\ThreadDemo\obj\Debug\ThreadDemo.pdb

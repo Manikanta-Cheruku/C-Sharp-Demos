@@ -1,0 +1,7 @@
+C:\Wipro-Training\Day4\Day4Projects\InterfacePractice\bin\Debug\InterfacePractice.exe.config
+C:\Wipro-Training\Day4\Day4Projects\InterfacePractice\bin\Debug\InterfacePractice.exe
+C:\Wipro-Training\Day4\Day4Projects\InterfacePractice\bin\Debug\InterfacePractice.pdb
+C:\Wipro-Training\Day4\Day4Projects\InterfacePractice\obj\Debug\InterfacePractice.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day4\Day4Projects\InterfacePractice\obj\Debug\InterfacePractice.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day4\Day4Projects\InterfacePractice\obj\Debug\InterfacePractice.exe
+C:\Wipro-Training\Day4\Day4Projects\InterfacePractice\obj\Debug\InterfacePractice.pdb

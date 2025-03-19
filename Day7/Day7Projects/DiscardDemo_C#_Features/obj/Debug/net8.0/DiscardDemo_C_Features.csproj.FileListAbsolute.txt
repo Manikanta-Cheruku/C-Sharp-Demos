@@ -1,0 +1,14 @@
+C:\Wipro-Training\Day7\Day7Projects\DiscardDemo_C#_Features\bin\Debug\net8.0\DiscardDemo_C_Features.exe
+C:\Wipro-Training\Day7\Day7Projects\DiscardDemo_C#_Features\bin\Debug\net8.0\DiscardDemo_C_Features.deps.json
+C:\Wipro-Training\Day7\Day7Projects\DiscardDemo_C#_Features\bin\Debug\net8.0\DiscardDemo_C_Features.runtimeconfig.json
+C:\Wipro-Training\Day7\Day7Projects\DiscardDemo_C#_Features\bin\Debug\net8.0\DiscardDemo_C_Features.dll
+C:\Wipro-Training\Day7\Day7Projects\DiscardDemo_C#_Features\bin\Debug\net8.0\DiscardDemo_C_Features.pdb
+C:\Wipro-Training\Day7\Day7Projects\DiscardDemo_C#_Features\obj\Debug\net8.0\DiscardDemo_C_Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro-Training\Day7\Day7Projects\DiscardDemo_C#_Features\obj\Debug\net8.0\DiscardDemo_C_Features.AssemblyInfoInputs.cache
+C:\Wipro-Training\Day7\Day7Projects\DiscardDemo_C#_Features\obj\Debug\net8.0\DiscardDemo_C_Features.AssemblyInfo.cs
+C:\Wipro-Training\Day7\Day7Projects\DiscardDemo_C#_Features\obj\Debug\net8.0\DiscardDemo_C_Features.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day7\Day7Projects\DiscardDemo_C#_Features\obj\Debug\net8.0\DiscardDemo_C_Features.dll
+C:\Wipro-Training\Day7\Day7Projects\DiscardDemo_C#_Features\obj\Debug\net8.0\refint\DiscardDemo_C_Features.dll
+C:\Wipro-Training\Day7\Day7Projects\DiscardDemo_C#_Features\obj\Debug\net8.0\DiscardDemo_C_Features.pdb
+C:\Wipro-Training\Day7\Day7Projects\DiscardDemo_C#_Features\obj\Debug\net8.0\DiscardDemo_C_Features.genruntimeconfig.cache
+C:\Wipro-Training\Day7\Day7Projects\DiscardDemo_C#_Features\obj\Debug\net8.0\ref\DiscardDemo_C_Features.dll

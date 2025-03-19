@@ -1,0 +1,7 @@
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\FactorialProblem\bin\Debug\FactorialProblem.exe.config
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\FactorialProblem\bin\Debug\FactorialProblem.exe
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\FactorialProblem\bin\Debug\FactorialProblem.pdb
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\FactorialProblem\obj\Debug\FactorialProblem.csproj.AssemblyReference.cache
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\FactorialProblem\obj\Debug\FactorialProblem.csproj.CoreCompileInputs.cache
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\FactorialProblem\obj\Debug\FactorialProblem.exe
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\FactorialProblem\obj\Debug\FactorialProblem.pdb

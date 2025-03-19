@@ -1,0 +1,10 @@
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingWindows\bin\Debug\FilehandlingWindows.exe.config
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingWindows\bin\Debug\FilehandlingWindows.exe
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingWindows\bin\Debug\FilehandlingWindows.pdb
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingWindows\obj\Debug\FilehandlingWindows.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingWindows\obj\Debug\FilehandlingWindows.Form1.resources
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingWindows\obj\Debug\FilehandlingWindows.Properties.Resources.resources
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingWindows\obj\Debug\FilehandlingWindows.csproj.GenerateResource.cache
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingWindows\obj\Debug\FilehandlingWindows.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingWindows\obj\Debug\FilehandlingWindows.exe
+C:\Wipro-Training\Day5\Day5Projects\FilehandlingWindows\obj\Debug\FilehandlingWindows.pdb

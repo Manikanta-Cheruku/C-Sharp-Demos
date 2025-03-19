@@ -1,0 +1,7 @@
+C:\Wipro-Training\Day6\Day6Projects\DelegateDemoUsingLambdaExp\bin\Debug\DelegateDemoUsingLambdaExp.exe.config
+C:\Wipro-Training\Day6\Day6Projects\DelegateDemoUsingLambdaExp\bin\Debug\DelegateDemoUsingLambdaExp.exe
+C:\Wipro-Training\Day6\Day6Projects\DelegateDemoUsingLambdaExp\bin\Debug\DelegateDemoUsingLambdaExp.pdb
+C:\Wipro-Training\Day6\Day6Projects\DelegateDemoUsingLambdaExp\obj\Debug\DelegateDemoUsingLambdaExp.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day6\Day6Projects\DelegateDemoUsingLambdaExp\obj\Debug\DelegateDemoUsingLambdaExp.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day6\Day6Projects\DelegateDemoUsingLambdaExp\obj\Debug\DelegateDemoUsingLambdaExp.exe
+C:\Wipro-Training\Day6\Day6Projects\DelegateDemoUsingLambdaExp\obj\Debug\DelegateDemoUsingLambdaExp.pdb

@@ -1,0 +1,7 @@
+C:\Wipro-Training\Day5\Day5Projects\COnstructorDemo\bin\Debug\COnstructorDemo.exe.config
+C:\Wipro-Training\Day5\Day5Projects\COnstructorDemo\bin\Debug\COnstructorDemo.exe
+C:\Wipro-Training\Day5\Day5Projects\COnstructorDemo\bin\Debug\COnstructorDemo.pdb
+C:\Wipro-Training\Day5\Day5Projects\COnstructorDemo\obj\Debug\COnstructorDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day5\Day5Projects\COnstructorDemo\obj\Debug\COnstructorDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day5\Day5Projects\COnstructorDemo\obj\Debug\COnstructorDemo.exe
+C:\Wipro-Training\Day5\Day5Projects\COnstructorDemo\obj\Debug\COnstructorDemo.pdb

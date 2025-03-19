@@ -1,0 +1,7 @@
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\SwitchDemo\bin\Debug\SwitchDemo.exe.config
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\SwitchDemo\bin\Debug\SwitchDemo.exe
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\SwitchDemo\bin\Debug\SwitchDemo.pdb
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\SwitchDemo\obj\Debug\SwitchDemo.csproj.AssemblyReference.cache
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\SwitchDemo\obj\Debug\SwitchDemo.csproj.CoreCompileInputs.cache
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\SwitchDemo\obj\Debug\SwitchDemo.exe
+C:\Users\manik\source\repos\GreatLearning\Day2Demos\Day2Projects\SwitchDemo\obj\Debug\SwitchDemo.pdb

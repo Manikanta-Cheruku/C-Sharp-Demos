@@ -1,0 +1,10 @@
+C:\Wipro-Training\Day4\Day4Projects\AccessSpecifiersDemo\bin\Debug\AccessSpecifiersDemo.exe.config
+C:\Wipro-Training\Day4\Day4Projects\AccessSpecifiersDemo\bin\Debug\AccessSpecifiersDemo.exe
+C:\Wipro-Training\Day4\Day4Projects\AccessSpecifiersDemo\bin\Debug\AccessSpecifiersDemo.pdb
+C:\Wipro-Training\Day4\Day4Projects\AccessSpecifiersDemo\obj\Debug\AccessSpecifiersDemo.csproj.AssemblyReference.cache
+C:\Wipro-Training\Day4\Day4Projects\AccessSpecifiersDemo\obj\Debug\AccessSpecifiersDemo.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\Day4\Day4Projects\AccessSpecifiersDemo\obj\Debug\AccessSpecifiersDemo.exe
+C:\Wipro-Training\Day4\Day4Projects\AccessSpecifiersDemo\obj\Debug\AccessSpecifiersDemo.pdb
+C:\Wipro-Training\Day4\Day4Projects\AccessSpecifiersDemo\bin\Debug\ClassLibrary1.dll
+C:\Wipro-Training\Day4\Day4Projects\AccessSpecifiersDemo\bin\Debug\ClassLibrary1.pdb
+C:\Wipro-Training\Day4\Day4Projects\AccessSpecifiersDemo\obj\Debug\AccessSp.A2670373.Up2Date
