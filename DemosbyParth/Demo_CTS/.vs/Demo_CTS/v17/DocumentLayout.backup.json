@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro-Training\\DemosbyParth\\Demo_CTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3131F-D08C-466B-9CF9-14E97452B908}|Demo_CTS\\Demo_CTS.csproj|c:\\wipro-training\\demosbyparth\\demo_cts\\demo_cts\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3131F-D08C-466B-9CF9-14E97452B908}|Demo_CTS\\Demo_CTS.csproj|solutionrelative:demo_cts\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C7885C-6766-4904-9408-5A186D1369CB}|Demo-Extension-Methods\\Demo-Extension-Methods.csproj|c:\\wipro-training\\demosbyparth\\demo_cts\\demo-extension-methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C7885C-6766-4904-9408-5A186D1369CB}|Demo-Extension-Methods\\Demo-Extension-Methods.csproj|solutionrelative:demo-extension-methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3131F-D08C-466B-9CF9-14E97452B908}|Demo_CTS\\Demo_CTS.csproj|c:\\wipro-training\\demosbyparth\\demo_cts\\demo_cts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3131F-D08C-466B-9CF9-14E97452B908}|Demo_CTS\\Demo_CTS.csproj|solutionrelative:demo_cts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741AEC88-5681-4024-A9EF-4B580F9043D7}|ClassLibrary1\\ClassLibrary1.vbproj|c:\\wipro-training\\demosbyparth\\demo_cts\\classlibrary1\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{741AEC88-5681-4024-A9EF-4B580F9043D7}|ClassLibrary1\\ClassLibrary1.vbproj|solutionrelative:classlibrary1\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\DemosbyParth\\Demo_CTS\\Demo-Extension-Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Demo-Extension-Methods\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\DemosbyParth\\Demo_CTS\\Demo-Extension-Methods\\Program.cs",
+              "RelativeToolTip": "Demo-Extension-Methods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:50:43.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.vb",
+              "DocumentMoniker": "C:\\Wipro-Training\\DemosbyParth\\Demo_CTS\\ClassLibrary1\\Class1.vb",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.vb",
+              "ToolTip": "C:\\Wipro-Training\\DemosbyParth\\Demo_CTS\\ClassLibrary1\\Class1.vb",
+              "RelativeToolTip": "ClassLibrary1\\Class1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-20T04:17:46.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\DemosbyParth\\Demo_CTS\\Demo_CTS\\Calculator.cs",
+              "RelativeDocumentMoniker": "Demo_CTS\\Calculator.cs",
+              "ToolTip": "C:\\Wipro-Training\\DemosbyParth\\Demo_CTS\\Demo_CTS\\Calculator.cs",
+              "RelativeToolTip": "Demo_CTS\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:12:13.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro-Training\\DemosbyParth\\Demo_CTS\\Demo_CTS\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_CTS\\Program.cs",
+              "ToolTip": "C:\\Wipro-Training\\DemosbyParth\\Demo_CTS\\Demo_CTS\\Program.cs",
+              "RelativeToolTip": "Demo_CTS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:08:45.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

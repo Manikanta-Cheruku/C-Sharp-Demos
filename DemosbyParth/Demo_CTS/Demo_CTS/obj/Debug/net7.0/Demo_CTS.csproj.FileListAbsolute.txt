@@ -1,0 +1,15 @@
+C:\Wipro-Training\DemosbyParth\Demo_CTS\Demo_CTS\bin\Debug\net7.0\Demo_CTS.exe
+C:\Wipro-Training\DemosbyParth\Demo_CTS\Demo_CTS\bin\Debug\net7.0\Demo_CTS.deps.json
+C:\Wipro-Training\DemosbyParth\Demo_CTS\Demo_CTS\bin\Debug\net7.0\Demo_CTS.runtimeconfig.json
+C:\Wipro-Training\DemosbyParth\Demo_CTS\Demo_CTS\bin\Debug\net7.0\Demo_CTS.dll
+C:\Wipro-Training\DemosbyParth\Demo_CTS\Demo_CTS\bin\Debug\net7.0\Demo_CTS.pdb
+C:\Wipro-Training\DemosbyParth\Demo_CTS\Demo_CTS\obj\Debug\net7.0\Demo_CTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro-Training\DemosbyParth\Demo_CTS\Demo_CTS\obj\Debug\net7.0\Demo_CTS.AssemblyInfoInputs.cache
+C:\Wipro-Training\DemosbyParth\Demo_CTS\Demo_CTS\obj\Debug\net7.0\Demo_CTS.AssemblyInfo.cs
+C:\Wipro-Training\DemosbyParth\Demo_CTS\Demo_CTS\obj\Debug\net7.0\Demo_CTS.csproj.CoreCompileInputs.cache
+C:\Wipro-Training\DemosbyParth\Demo_CTS\Demo_CTS\obj\Debug\net7.0\Demo_CTS.sourcelink.json
+C:\Wipro-Training\DemosbyParth\Demo_CTS\Demo_CTS\obj\Debug\net7.0\Demo_CTS.dll
+C:\Wipro-Training\DemosbyParth\Demo_CTS\Demo_CTS\obj\Debug\net7.0\refint\Demo_CTS.dll
+C:\Wipro-Training\DemosbyParth\Demo_CTS\Demo_CTS\obj\Debug\net7.0\Demo_CTS.pdb
+C:\Wipro-Training\DemosbyParth\Demo_CTS\Demo_CTS\obj\Debug\net7.0\Demo_CTS.genruntimeconfig.cache
+C:\Wipro-Training\DemosbyParth\Demo_CTS\Demo_CTS\obj\Debug\net7.0\ref\Demo_CTS.dll
